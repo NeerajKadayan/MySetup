@@ -112,3 +112,8 @@ let g:go_auto_type_info = 1
 " Folding                    
 set foldmethod=indent    
 
+" NOTE:
+" 1. perform -> python3 install.py --go-completer under plugins destination.
+" 2. :help fold-commands to checkout how folds works.
+
+
