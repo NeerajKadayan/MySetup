@@ -1,3 +1,5 @@
+" Old setup when i was very new to vim.
+
 set showcmd
 set showmatch
 colo pablo
